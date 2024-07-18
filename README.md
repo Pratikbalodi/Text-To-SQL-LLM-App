@@ -5,3 +5,6 @@ Activate enviroment - conda activate venv/
 install requirements.txt 
 
 run app ---> streamlit run app.py 
+
+
+APP link -->> https://h4hjystb89ayeykeef4maw.streamlit.app/
